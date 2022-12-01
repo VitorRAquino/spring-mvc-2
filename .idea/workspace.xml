@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8df97a75-a5f2-418a-93d1-c04ad6d5e6e1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HsYU4y0KbKzs71X8pKeDyWFvgw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vitoraquino/Projects/Projects/MVC/mudi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.46781608&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;4d038ac3972de4e0c8895ab94464db95&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.mvc.mudi.model" />
+      <recent name="br.com.mvc.mudi.dto" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MudiApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="mudi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="mudi" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MudiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mudi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.alura.mvc.mudi.MudiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MudiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mudi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.mvc.mudi.MudiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8df97a75-a5f2-418a-93d1-c04ad6d5e6e1" name="Changes" comment="" />
+      <created>1669075271062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669075271062</updated>
+      <workItem from="1669075272360" duration="992000" />
+      <workItem from="1669076569431" duration="1637000" />
+      <workItem from="1669078511167" duration="4954000" />
+      <workItem from="1669158570447" duration="10014000" />
+      <workItem from="1669244664519" duration="4595000" />
+      <workItem from="1669251012706" duration="2409000" />
+      <workItem from="1669725478412" duration="2020000" />
+      <workItem from="1669729863220" duration="532000" />
+      <workItem from="1669730838096" duration="791000" />
+      <workItem from="1669818246297" duration="302000" />
+      <workItem from="1669818841006" duration="2059000" />
+      <workItem from="1669896232611" duration="2051000" />
+      <workItem from="1669898321600" duration="1117000" />
+      <workItem from="1669899448048" duration="1249000" />
+      <workItem from="1669901232898" duration="54000" />
+      <workItem from="1669901291807" duration="2094000" />
+      <workItem from="1669903406499" duration="319000" />
+    </task>
+    <task id="LOCAL-00001" summary="1.Conhecendo o Spring MVC">
+      <created>1669076086168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669076086168</updated>
+    </task>
+    <task id="LOCAL-00002" summary="02.Thymeleaf e Bootstrap">
+      <created>1669082298977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669082298977</updated>
+    </task>
+    <task id="LOCAL-00003" summary="04.Implementando Formulário">
+      <created>1669164825783</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669164825783</updated>
+    </task>
+    <task id="LOCAL-00004" summary="05.Implementando Bean Validation">
+      <created>1669169427226</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669169427226</updated>
+    </task>
+    <task id="LOCAL-00005" summary="06.Implementando Templates">
+      <created>1669247053024</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669247053024</updated>
+    </task>
+    <task id="LOCAL-00006" summary="07.Formatando e finalizando">
+      <created>1669252937130</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669252937130</updated>
+    </task>
+    <task id="LOCAL-00007" summary="07.1.Formatando e finalizando">
+      <created>1669253406208</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669253406208</updated>
+    </task>
+    <task id="LOCAL-00008" summary="07.1.1.Formatando e finalizando">
+      <created>1669903056899</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669903056899</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.Conhecendo o Spring MVC" />
+    <MESSAGE value="02.Thymeleaf e Bootstrap" />
+    <MESSAGE value="04.Implementando Formulário" />
+    <MESSAGE value="05.Implementando Bean Validation" />
+    <MESSAGE value="06.Implementando Templates" />
+    <MESSAGE value="07.Formatando e finalizando" />
+    <MESSAGE value="07.1.Formatando e finalizando" />
+    <MESSAGE value="07.1.1.Formatando e finalizando" />
+    <option name="LAST_COMMIT_MESSAGE" value="07.1.1.Formatando e finalizando" />
+  </component>
+</project>
