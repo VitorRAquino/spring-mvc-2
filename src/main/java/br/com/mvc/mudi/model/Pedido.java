@@ -1,14 +1,8 @@
 package br.com.mvc.mudi.model;
 
+import javax.persistence.*;
 import java.math.BigDecimal;
 import java.time.LocalDate;
-
-import javax.persistence.Entity;
-import javax.persistence.EnumType;
-import javax.persistence.Enumerated;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
 
 @Entity
 public class Pedido {
@@ -25,6 +19,9 @@ public class Pedido {
 	
 	@Enumerated(EnumType.STRING)
 	private StatusPedido status;
+
+	@ManyToOne(fetch = FetchType.LAZY)
+	private User user;
 
 	public String getNomeProduto() {
 		return nomeProduto;
@@ -82,4 +79,6 @@ public class Pedido {
 		this.status = status;
 	}
 
+	public void setUser(User user) {
+	}
 }

@@ -1,7 +1,5 @@
 package br.com.mvc.mudi.controller;
 
-import java.util.List;
-
 import br.com.mvc.mudi.model.Pedido;
 import br.com.mvc.mudi.model.StatusPedido;
 import br.com.mvc.mudi.repository.PedidoRepository;
@@ -13,6 +11,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+import java.security.Principal;
+import java.util.List;
+
 @Controller
 @RequestMapping("/home")
 public class HomeController {
@@ -21,8 +22,8 @@ public class HomeController {
 	private PedidoRepository repository;
 	
 	@GetMapping()
-	public String home(Model model) {
-		List<Pedido> pedidos = repository.findAll();
+	public String home(Model model, Principal principal) {
+		List<Pedido> pedidos = repository.findAllByUsuario(principal.getName());
 		model.addAttribute("pedidos", pedidos);
 		return "home"; 
 	}
