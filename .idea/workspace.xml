@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8df97a75-a5f2-418a-93d1-c04ad6d5e6e1" name="Changes" comment="12.Implementando AJAX e Vue.js">
+    <list default="true" id="8df97a75-a5f2-418a-93d1-c04ad6d5e6e1" name="Changes" comment="13.Validações com Vue.js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/mvc/mudi/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/mvc/mudi/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/mvc/mudi/api/OfertasRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/mvc/mudi/api/OfertasRest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/mvc/mudi/dto/RequisicaoNovaOferta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/mvc/mudi/dto/RequisicaoNovaOferta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/mvc/mudi/model/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/mvc/mudi/model/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/mvc/mudi/repository/PedidoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/mvc/mudi/repository/PedidoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/oferta/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/oferta/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +155,7 @@
       <workItem from="1670243598433" duration="1561000" />
       <workItem from="1670245919406" duration="3010000" />
       <workItem from="1670249964291" duration="11641000" />
-      <workItem from="1670416084315" duration="6074000" />
+      <workItem from="1670416084315" duration="7118000" />
     </task>
     <task id="LOCAL-00001" summary="1.Conhecendo o Spring MVC">
       <created>1669076086168</created>
@@ -254,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670332973371</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="13.Validações com Vue.js">
+      <created>1670423028772</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670423028772</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,6 +286,7 @@
     <MESSAGE value="10.Paginação e Cache" />
     <MESSAGE value="11.Construindo uma API REST" />
     <MESSAGE value="12.Implementando AJAX e Vue.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="12.Implementando AJAX e Vue.js" />
+    <MESSAGE value="13.Validações com Vue.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="13.Validações com Vue.js" />
   </component>
 </project>
