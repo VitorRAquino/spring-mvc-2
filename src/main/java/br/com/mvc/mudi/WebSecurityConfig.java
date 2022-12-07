@@ -32,7 +32,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 {
                     logout.logoutUrl("/logout")
                             .logoutSuccessUrl("/home");
-                });
+                }).csrf().disable();
     }
 
     @Override
